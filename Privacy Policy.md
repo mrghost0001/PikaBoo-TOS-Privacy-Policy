@@ -1,8 +1,8 @@
 <h1 align="center"><b>Privacy Policy</b><h2>
 <h6 align="right">Effective date: 2023-02-10</h6>
 <h2>1. <b>Introduction</b></h2>
-<p>Welcome to <b> pikaboobot.xyz.</b></p>
-<p><b>pikaboobot.xyz.</b> operates <b>www.pikaboobot.xyz</b></p>
+<p>Welcome to <b> PikaBoo</b></p>
+<p><b>pikaboobot.xyz</b> operates <b>www.pikaboobot.xyz</b></p>
 <p>Our Privacy Policy governs your visit to <b>www.pikaboobot.xyz</b>, and explains how we collect, safeguard and disclose information that results from your use of our Service.</p>
 <p>We use your data to provide and improve Service. By using Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p>
 <p>Our Terms and Conditions (<b>“Terms”</b>) govern all use of our Service and together with the Privacy Policy constitutes your agreement with us (<b>“agreement”</b>).</p>
@@ -42,7 +42,7 @@
 <p><b>Other Data</b></p>
 <p>While using our Service, we may also collect the following information: sex, age, date of birth, place of birth, passport details, citizenship, registration at place of residence and actual address, telephone number (work, mobile), details of documents on education, qualification, professional training, employment agreements, <a href="https://policymaker.io/non-disclosure-agreement/">NDA agreements</a>, information on bonuses and compensation, information on marital status, family members, social security (or other taxpayer identification) number, office location and other data.</p>
 <h2>5. <b>Use of Data</b></h2>
-<p>www.pikaboobot.xyz. uses the collected data for various purposes:</p>
+<p>www.pikaboobot.xyz uses the collected data for various purposes:</p>
 <p>0.1. to provide and maintain our Service;</p>
 <p>0.2. to notify you about changes to our Service;</p>
 <p>0.3. to allow you to participate in interactive features of our Service when you choose to do so;</p>
