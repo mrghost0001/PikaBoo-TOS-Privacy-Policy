@@ -1,4 +1,4 @@
-<h1 align="center"><b>Privacy Policy</b><h2>
+<h1 align="center"><b>PRIVACY POLICY</b><h2>
 <h6 align="right">Effective date: 2023-02-10</h6>
 <h2>1. <b>Introduction</b></h2>
 <p>Welcome to <b> PikaBoo</b></p>
