@@ -1,4 +1,4 @@
-<h1 align="center"><b>Terms of Service</b></h2>
+<h1 align="center"><b>PRIVACY POLICY</b></h2>
 <h6 align="right">Effective date: 2023-02-10</h6>
 <p>The privacy of our visitors is one of our top considerations at PikaBoo, which is reachable at www.pikaboot.xyz. The sorts of information that PikaBoo gathers and records, as well as how we utilize it, are detailed in this Privacy Policy document</p>
 <p>Please get in touch with us if you have any more inquiries or need more details about our privacy policy.</p>
