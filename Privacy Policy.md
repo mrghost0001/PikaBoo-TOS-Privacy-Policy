@@ -14,7 +14,7 @@
 <p><b>DATA CONTROLLER:</b> means a natural or legal person who (either alone or jointly or in common with other persons) determines the purposes for which and the manner in which any personal data are, or are to be, processed. For the purpose of this Privacy Policy, we are a Data Controller of your data.</p>
 <p><b>DATA PROCESSORS (OR SERVICE PROVIDERS):</b> means any natural or legal person who processes the data on behalf of the Data Controller. We may use the services of various Service Providers in order to process your data more effectively.</p> <p><b>DATA SUBJECT</b> is any living individual who is the subject of Personal Data.</p>
 <p><b>THE USER:</b> is the individual using our Service. The User corresponds to the Data Subject, who is the subject of Personal Data.</p>
-<p>3. <b>Information Collection and Use</b></p>
+<h2>3. <b>Information Collection and Use</b></h2>
 <p>We collect several different types of information for various purposes to provide and improve our Service to you.</p>
 <h2>4. <b>Types of Data Collected</b></h2>
 <p><b>Personal Data</b></p>
